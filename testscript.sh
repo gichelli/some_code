@@ -3,4 +3,5 @@ echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "I AM SO GREAT"
-echo "IAM THE MOST BEAUTIFUL HUMAN IN THE WORLD"
+echo "I AM THE MOST BEAUTIFUL GIRL IN THE WORLD"
+echo "My name is GISSELLITA"
