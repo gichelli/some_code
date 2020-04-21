@@ -2,6 +2,6 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "I AM SOO GREATttttttttttttt"
+echo "I AM SOO GREATtttttttttttttiiiiiiiiiiii"
 echo "I AM THE MOST BEAUTIFUL GIRL IN THE WORLD"
 echo "My name is GISSELLITA"
